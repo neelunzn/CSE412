@@ -134,6 +134,7 @@ void solve(){
     cin>>n;
     cout<<n<<" ";
     cout<<"\n";
+
 }
 
 int main(){
